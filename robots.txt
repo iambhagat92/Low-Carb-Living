@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://low-carb-living.vercel.app/sitemap.xml
